@@ -1,7 +1,5 @@
 # ChatGPT-Vercel
 
-![](assets/preview-light.png#gh-light-mode-only)
-![](assets/preview-dark.png#gh-dark-mode-only)
 
 1. 创建文件 `.env`，然后在里面填入你的 [OpenAI API key](https://platform.openai.com/account/api-keys)。如果用户不填自己的 key，那么就会使用你的 key。
 
